@@ -13,7 +13,7 @@ Instruments: Acoustic Grand Piano, String Ensemble 1, Pan Flute |
 Pitch range: MIDI 22-107 | Note density: 5.984 notes/s | 
 Chord progression (sample): C#; C#-E; C#m; B-C#-E; B-E; B-E-F#
 
-Caption: [EMOTION_SADNESS] [GENRE_SOUNDTRACK] [INSTRUMENT_PIANO] [INSTRUMENT_STRINGS] [INSTRUMENT_FLUTE] [KEY_C#_MINOR] [TEMPO_FAST]
+Caption:[GENRE_SOUNDTRACK][KEY_C#_MINOR]
 
 
 FeatureSummary : Tempo: 233 BPM | Duration: 74.01s | Tracks: 6 | 
@@ -21,14 +21,14 @@ Instruments: Flute, Pad 3 (polysynth), String Ensemble 1 |
 Pitch range: MIDI 30-83 | Note density: 16.769 notes/s | 
 Chord progression (sample): C#-E; C#-E-F#; A; B-C#-D#; B-C#; A
 
-Caption: [EMOTION_JOY] [GENRE_POP] [INSTRUMENT_FLUTE] [INSTRUMENT_SYNTH] [INSTRUMENT_STRINGS] [KEY_C#_MINOR] [TEMPO_FAST]
+Caption:[GENRE_POP] [KEY_C#_MINOR] 
 
 
 FeatureSummary : Tempo: 184 BPM | Duration: 91.49s | Tracks: 1 | Instruments: Acoustic Grand Piano | 
 Pitch range: MIDI 31-96 | Note density: 7.444 notes/s | 
 Chord progression (sample): C; Cm; D#; Cm; Ddim; A#
 
-Caption: [EMOTION_JOY] [GENRE_CLASSICAL] [INSTRUMENT_PIANO] [KEY_F_MINOR] [TEMPO_FAST]
+Caption:[GENRE_CLASSICAL] [KEY_F_MINOR]
 
 """
 
